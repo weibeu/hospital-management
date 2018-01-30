@@ -61,3 +61,4 @@ Simple Hospital Management program made in python. This project was given to us 
 Made especially for CBSE board Practical Examination.
 I feel meh for this project, 'cause made this in school hours, given less time.
 I am also uploading doc file for this project which is required. Get hard copy of it, make changes according to yourself and voila! you CS project file ready.
+`This project was made by my friend`
